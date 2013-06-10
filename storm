@@ -1,4 +1,4 @@
-package dannydog.mc.fng;
+package me.yuzko.project;
  
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
